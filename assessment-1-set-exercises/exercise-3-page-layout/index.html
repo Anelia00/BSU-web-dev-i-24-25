@@ -1,0 +1,113 @@
+<!--
+Assessment: Web Development I – Set Exercises
+Exercise: 3-Page Layout
+
+Description:
+This webpage was created as part of the Web Development I assessment.
+It demonstrates the required HTML structure and CSS styling techniques
+covered in the module.
+
+Learning Resources:
+Some coding techniques were implemented with guidance from online learning
+resources such as web development tutorials, documentation websites,
+and educational videos.
+
+Author: Anelia Tomova
+Year: 2026
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Page title shown in the browser tab -->
+    <title>J's Gallery</title>
+
+    <!-- Link to the external CSS stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header section containing the website title and navigation menu -->
+    <header>
+        <h1>J's Gallery</h1>
+
+        <!-- Main navigation links -->
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#gallery">Gallery</a>
+        </nav>
+    </header>
+
+    <!-- Main page content -->
+    <main>
+
+        <!-- Top section containing introductory text and featured image -->
+        <section class="top-section">
+
+            <!-- Article used for the main text content -->
+            <article class="text-content">
+
+                <!-- Featured image displayed beside the text -->
+                <img src="COW.jpg" alt="Shaggy cow standing on a rocky beach" class="cow-image">
+
+                <!-- First paragraph of introductory text -->
+                <p>
+                    Lorem ipsum odor amet, consectetuer adipiscing elit. Praesent mollis adipiscing per id libero
+                    libero.
+                    Tempus pretium netus molestie scelerisque facilisis tristique volutpat ultricies. Nostra ligula ac
+                    pulvinar rutrum non rhoncus mauris facilisi. Quisque maximus commodo sollicitudin, montes congue
+                    imperdiet. Est malesuada vivamus vestibulum ante aenean class. Per integer aptent ullamcorper
+                    sagittis
+                    posuere dignissim morbi scelerisque. Fringilla primis sagittis lorem erat integer; vulputate nullam.
+                    Porta purus habitant id fermentum nec ex, proin mauris sem.
+                </p>
+
+                <!-- Second paragraph of introductory text -->
+                <p>
+                    Lectus ultrices nibh lobortis tempus facilisis sit conubia taciti. Non torquent amet nibh elit ante
+                    fermentum praesent cras. Et suspendisse egestas eros erat aptent sollicitudin. Nulla tortor purus
+                    posuere
+                    auctor himenaeos malesuada. Turpis phasellus enim venenatis aliquam pellentesque senectus, id
+                    ultrices.
+                    Praesent tellus consequat phasellus cubilia mattis mauris natoque litora. Fringilla cursus montes
+                    inceptos nec venenatis platea.
+                </p>
+
+            </article>
+
+        </section>
+
+
+        <!-- Gallery section displaying images and a video -->
+        <section id="gallery" class="gallery">
+
+            <!-- First gallery row containing video and image -->
+            <div class="gallery-row">
+                <video controls>
+                    <source src="video.mp4" type="video/mp4">
+                </video>
+
+                <img src="img4598.jpg" alt="Foggy railway station lights">
+            </div>
+
+            <!-- Second gallery row containing two images -->
+            <div class="gallery-row">
+                <img src="img4532.jpg" alt="Vintage camera">
+                <img src="photo_2018_02_01.jpg" alt="Landscape hills">
+            </div>
+
+            <!-- Third gallery row containing two images -->
+            <div class="gallery-row">
+                <img src="photo_2018_02_31.jpg" alt="Snowy mountains">
+                <img src="johns car jpg.jpg" alt="Old car outside building">
+            </div>
+
+        </section>
+
+    </main>
+
+</body>
+
+</html>

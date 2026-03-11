@@ -1,0 +1,114 @@
+/* Page background and base text styling */
+body {
+    background-color: #f2f2f2;
+    /* Light grey background for the page */
+    font-family: serif;
+    /* Serif font used for all text */
+    margin: 12px;
+    /* Space around the page content */
+}
+
+/* Constrain page width so content does not stretch too wide on large screens */
+main {
+    max-width: 10000px;
+    /* Limits the maximum width of the content */
+    margin: 0 auto;
+    /* Centers the content horizontally */
+}
+
+/* Header section styling */
+header {
+    background-color: #d9d9d9;
+    /* Grey background for the header */
+    padding: 30px;
+    /* Space inside the header */
+    margin-bottom: 32px;
+    /* Space below the header */
+}
+
+/* Main page title */
+h1 {
+    font-size: 48px;
+    /* Large font size for main title */
+    margin-top: 0;
+    /* Remove default top margin */
+    margin-bottom: 38px;
+    /* Space below the title */
+}
+
+/* Navigation links */
+nav a {
+    font-size: 24px;
+    /* Larger text for navigation menu */
+    margin-right: 0;
+    /* No extra space between links */
+}
+
+/* Recipe title */
+h2 {
+    font-size: 42px;
+    /* Large heading for recipe name */
+    margin-bottom: 22px;
+    /* Space below heading */
+}
+
+/* Section headings (Ingredients / Instructions) */
+h3 {
+    font-size: 36px;
+    /* Medium heading size */
+    margin-top: 32px;
+    /* Space above heading */
+    margin-bottom: 20px;
+    /* Space below heading */
+}
+
+/* Paragraph text styling */
+p {
+    font-size: 21px;
+    /* Readable paragraph size */
+    line-height: 1.5;
+    /* Improved spacing between lines */
+}
+
+/* Styling for ingredient and instruction lists */
+ul,
+ol {
+    font-size: 21px;
+    /* Same size as paragraph text */
+    line-height: 1.5;
+    /* Consistent line spacing */
+}
+
+/* Aside section for additional information */
+aside {
+    background-color: #d9d9d9;
+    /* Grey background box */
+    padding: 30px;
+    /* Space inside the aside box */
+    margin-top: 32px;
+    /* Space above the aside */
+    margin-bottom: 32px;
+    /* Space below the aside */
+}
+
+/* Paragraph inside the aside box */
+aside p {
+    font-size: 21px;
+    /* Same size as normal paragraph text */
+}
+
+/* Footer section styling */
+footer {
+    background-color: #d9d9d9;
+    /* Grey background for footer */
+    padding: 30px;
+    /* Space inside footer */
+    margin-top: 32px;
+    /* Space above footer */
+}
+
+/* Footer paragraph text */
+footer p {
+    font-size: 21px;
+    /* Footer text size */
+}

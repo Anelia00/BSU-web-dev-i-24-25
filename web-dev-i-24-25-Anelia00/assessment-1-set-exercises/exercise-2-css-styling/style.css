@@ -1,0 +1,115 @@
+/* Page styling – sets the base appearance for the whole webpage */
+body {
+    margin: 0;
+    /* Removes default browser margins */
+    background-color: #efefef;
+    /* Light grey background for the page */
+    font-family: Arial, sans-serif;
+    /* Default font for the page */
+    color: #111111;
+    /* Dark text colour for readability */
+}
+
+/* Main content container – centers the page content and limits width */
+main {
+    max-width: 700px;
+    /* Restricts the maximum width of the content */
+    margin: 40px auto;
+    /* Centers the container horizontally */
+    padding: 24px 14px 40px 14px;
+    /* Space inside the container */
+    background-color: white;
+    /* White background for the content area */
+    border-radius: 20px;
+    /* Rounded corners for visual style */
+}
+
+/* Main heading styling */
+h1 {
+    margin-top: 12px;
+    /* Space above the heading */
+    margin-bottom: 24px;
+    /* Space below the heading */
+    text-align: center;
+    /* Centers the heading text */
+    font-size: 105px;
+    /* Large font size for the main title */
+    line-height: 1;
+    /* Controls spacing between lines */
+    color: #41850d;
+    /* Green text colour */
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    /* Bold display font */
+    font-weight: 700;
+    /* Bold text weight */
+}
+
+/* Section headings (e.g. main content sections) */
+h2 {
+    margin-top: 26px;
+    /* Space above section headings */
+    margin-bottom: 16px;
+    /* Space below section headings */
+    text-align: center;
+    /* Centers the heading */
+    font-size: 70px;
+    /* Large heading size */
+    line-height: 1;
+    /* Controls line spacing */
+    color: #41850d;
+    /* Green text colour */
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    /* Bold display font */
+    font-weight: 700;
+    /* Bold text weight */
+}
+
+/* Heading inside the aside information box */
+h3 {
+    margin-top: 0;
+    /* Removes extra space above the heading */
+    margin-bottom: 18px;
+    /* Space below the heading */
+    font-size: 42px;
+    /* Medium heading size */
+    line-height: 1;
+    /* Controls line spacing */
+    color: #ffffff;
+    /* White text colour for contrast */
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    /* Bold display font */
+    font-weight: 700;
+    /* Bold text weight */
+}
+
+/* Paragraph text styling */
+p {
+    margin-top: 0;
+    /* Removes default top margin */
+    margin-bottom: 26px;
+    /* Space between paragraphs */
+    font-size: 19px;
+    /* Readable paragraph text size */
+    line-height: 1.12;
+    /* Controls spacing between lines */
+}
+
+/* Highlight box used for additional information */
+aside {
+    margin: 30px 0 26px 0;
+    /* Space above and below the aside */
+    padding: 22px 28px;
+    /* Space inside the aside box */
+    background-color: #41850d;
+    /* Green background */
+    border-radius: 22px;
+    /* Rounded corners for styling */
+}
+
+/* Paragraph text inside the aside box */
+aside p {
+    margin-bottom: 0;
+    /* Removes bottom margin inside the aside */
+    color: #ffffff;
+    /* White text colour for contrast */
+}

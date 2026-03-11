@@ -5,7 +5,7 @@ body {
     font-family: serif;
     /* Serif font used for all text */
     margin: 12px;
-    /* Space around the page content */
+    /* Space around the page content */ 
 }
 
 /* Constrain page width so content does not stretch too wide on large screens */

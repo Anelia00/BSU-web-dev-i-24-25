@@ -76,5 +76,6 @@ Some concepts and techniques were implemented with guidance from online learning
 ## Author
 
 Student Name: Anelia Tomova
+
 Web Development I  
 2026

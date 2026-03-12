@@ -1,81 +1,38 @@
 # Web Development I – Assessment 1
 
-This repository contains my solutions for Assessment 1 in the Web Development I module.
+This repository contains my solutions for **Assessment 1** in the *Web Development I* module. The assessment consists of four exercises that focus on fundamental web development concepts: **Semantic Markup, CSS Styling, Page Layout, and Web Accessibility**.
 
-The project includes four exercises designed to demonstrate fundamental web development techniques including semantic HTML, CSS styling, page layout, and web accessibility.
-
----
-
-## Exercises
-
-### Exercise 1 – Semantic Markup
-Recreated a recipe webpage using semantic HTML elements such as:
-- header
-- nav
-- main
-- article
-- section
-- aside
-- footer
-
-The goal was to structure the content using meaningful HTML elements.
+Each exercise recreates a webpage based on a provided screenshot while applying techniques such as semantic HTML structure, external CSS styling, modern layout methods (including Flexbox), and accessibility improvements. The aim of the assessment is to demonstrate an understanding of core HTML and CSS principles, clean code formatting, and good repository organisation.
 
 ---
 
-### Exercise 2 – CSS Styling
-Recreated a webpage using an external CSS stylesheet.  
-The exercise focuses on:
+## Exercises Included
 
-- text styling (fonts, sizes, colours)
-- background colours
-- spacing and layout
-- constraining page width for readability
+**Exercise 1 – Semantic Markup**  
+Recreated a recipe webpage using semantic HTML elements such as `header`, `nav`, `main`, `article`, `section`, `aside`, and `footer` to organise content in a meaningful and structured way.
 
----
+**Exercise 2 – CSS Styling**  
+Styled a webpage using an external CSS stylesheet, applying techniques such as typography styling, colours, spacing, and constraining the width of the content to improve readability.
 
-### Exercise 3 – Page Layout
-Built a gallery page using modern CSS layout techniques including **Flexbox**.
+**Exercise 3 – Page Layout**  
+Developed a gallery webpage layout using modern CSS techniques including **Flexbox** to arrange images and video elements consistently across the page.
 
-The page includes:
-- a responsive image and video gallery
-- media elements with consistent height
-- layout positioning using Flexbox
-
----
-
-### Exercise 4 – Web Accessibility
-Improved the accessibility of a travel photography blog page.
-
-Accessibility improvements include:
-- meaningful alt text for images
-- semantic HTML structure
-- accessible buttons and links
-- improved readability and layout
+**Exercise 4 – Web Accessibility**  
+Improved the accessibility of a photography blog webpage by using semantic HTML structure, descriptive alternative text for images, and accessible interactive elements such as buttons and links.
 
 ---
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- Visual Studio Code
+- HTML5  
+- CSS3  
+- Visual Studio Code  
 - Git & GitHub
-
----
-
-## Learning Resources
-
-Some concepts and techniques were implemented with guidance from online learning resources such as:
-
-- HTML and CSS tutorials
-- educational videos
-- documentation websites (e.g. MDN Web Docs)
 
 ---
 
 ## Author
 
-Student Name: Anelia Tomova
-
+Student Name  
 Web Development I  
 2026

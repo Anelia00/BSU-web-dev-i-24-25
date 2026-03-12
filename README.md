@@ -33,6 +33,6 @@ Improved the accessibility of a photography blog webpage by using semantic HTML 
 
 ## Author
 
-Student Name  
+Student Name : Anelia Tomova
 Web Development I  
 2026

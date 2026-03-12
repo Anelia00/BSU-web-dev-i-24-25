@@ -1,6 +1,6 @@
 # Web Development I – Assessment 1
 
-This repository contains my solutions for **Assessment 1** in the *Web Development I* module. The assessment consists of four exercises that focus on fundamental web development concepts: **Semantic Markup, CSS Styling, Page Layout, and Web Accessibility**.
+This repository contains my solutions for **Assessment 1: Set Exercises** in the *Web Development I* module. The assessment consists of four exercises that focus on fundamental web development concepts: **Semantic Markup, CSS Styling, Page Layout, and Web Accessibility**.
 
 Each exercise recreates a webpage based on a provided screenshot while applying techniques such as semantic HTML structure, external CSS styling, modern layout methods (including Flexbox), and accessibility improvements. The aim of the assessment is to demonstrate an understanding of core HTML and CSS principles, clean code formatting, and good repository organisation.
 
